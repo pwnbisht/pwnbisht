@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 <p>
-<img src = "asd.png" align="right" height= 500px class = "topright" />
+<img src = "3d.png" align="right" width= 400px/>
 </p>
 <p>Welcome to my page! </br> I'm Pawan, Fullstack developer, ML/AI Engineer from <img src="https://cdn-icons.flaticon.com/png/512/4628/premium/4628698.png?token=exp=1645009438~hmac=eecd18a14d9447a81914ee9cdc993fd1" width="13"/> <b>Uttarakhand, India</b>, currently living in <img src="https://cdn-icons.flaticon.com/png/512/3806/premium/3806789.png?token=exp=1645009700~hmac=3a29c117456619afebd7676e5b342c2a" width="13"/> <b>New Delhi, India</b>. </p>
 
